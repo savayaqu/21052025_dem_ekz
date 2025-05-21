@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Segoe UI";
+    src: url("fonts/SegoeUIVF.ttf");
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+.main-background {
+    background: #FFFFFF;
+}
+.div15 {
+    width: 15%;
+}
+.div70 {
+    width: 70%;
+}
+.second-background {
+    background: #F4E8D3;
+}
+.accent-background {
+    color: #67BA80;
+}
+.flex {
+    display: flex;
+}
+.border {
+    margin: 20px;
+    border: 1px solid black;
+}
+.bigFont {
+    font-size: 1.5em;
+}
+.btn {
+    color: #F4E8D3;
+    background: #67BA80;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.error {
+    color: red;
+}

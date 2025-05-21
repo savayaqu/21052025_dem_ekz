@@ -68,6 +68,5 @@ class PartnerController extends Controller
         catch (\Exception $e) {
             return -1;
         }
-
     }
 }

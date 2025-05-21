@@ -15,6 +15,7 @@
         <img src="{{asset('assets/images/master_floor.png')}}" alt="logo" width="100">
         <ul>
             <li><a href="{{route('partner.index')}}">Партнеры</a></li>
+            <li><a href="{{route('product.index')}}">Продукты</a></li>
         </ul>
     </nav>
 </header>
